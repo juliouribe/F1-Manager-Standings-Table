@@ -1,0 +1,1 @@
+This project contains a script to create a standings table out of an F1 Manager 2022 save file.
